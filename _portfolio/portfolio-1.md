@@ -1,6 +1,6 @@
 ---
 title: "A level Computer Science Coding Project"
-excerpt: "In this project I aim to use deep machine learning to train a model to predict stock values while including other details such as a user interface, databases, and creating a history of activity. <br/><img src='stfu.PNG'>"
+excerpt: "In this project I aim to use deep machine learning to train a model to predict stock values while including other details such as a user interface, databases, and creating a history of activity. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
