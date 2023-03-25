@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* GCSEs completed in 2022, Turing House School
+* A levels completed in 2024, Turing House School
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2023: NPL assistant
+  * National Physical Laboratory
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: PHD Paul Green
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,14 +29,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Data science course provided by MEI- 2023
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -48,7 +48,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Jobs
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
