@@ -32,7 +32,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "nzcjpalmer3@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -49,7 +49,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &realdonaldtrump
 facebook:
   username               :
   app_id                 :
@@ -75,7 +75,8 @@ author:
   name             : "Caiden Palmer"
   avatar           : "https://i.ytimg.com/vi/-1qju6V1jLM/maxresdefault.jpg"
   bio              : "I am a wizard who steals women"
-  location         : "308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104"
+  location         : "308 Negra Arroyo Lane, Albuquerque,
+   New Mexico, 87104"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -95,7 +96,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -247,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GMT # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
