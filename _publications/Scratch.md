@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Scratch
 excerpt: 'This project depicts my coding journey, starting with scratch.'
 date: 2020-11-06
-venue: 'Journal 1'
+venue: ''
 paperurl: 'https://scratch.mit.edu/projects/403900632/'
 citation: 'Caiden Palmer, 14. (2020). &quot;Initial Scratch project.&quot; <i>The beginning</i>. 1(1).'
 ---
