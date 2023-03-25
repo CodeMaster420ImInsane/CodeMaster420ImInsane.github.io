@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief introduction of this website"
+title: "Caiden Palmer Profile Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
